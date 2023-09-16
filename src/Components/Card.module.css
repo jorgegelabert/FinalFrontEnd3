@@ -1,0 +1,35 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-color: black;
+    border-style:solid;
+    width: 20%;
+    height: 30%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    /*background-color: aqua;*/
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+    flex-direction: column;
+    width: 100%;
+    display: flex;
+    /*background-color: blue;*/
+    align-content: center;
+    align-items: center;
+}
+
+.doctor{
+    width: 97%;
+    padding: 1%;
+}
+
+.h2{
+    font-size: 110% ;
+}
+
+.favButton{
+    margin-top: 5%;
+}

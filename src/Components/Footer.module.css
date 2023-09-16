@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(109, 119, 157);
+    justify-content: space-around;
+    margin-top:5%;
+    
+}
+
+
+.img{
+    width: 40%;
+    margin-top: -10%;
+}
+
+.iconos{
+    width: 35%;
+    margin-left: 70%;
+    margin-top: 10px;
+}
+
+.icono{
+    width: 20%;
+    margin-right: 5%;
+}
+
+.power{
+    margin-left: 5%;
+    width: 20;
+}
